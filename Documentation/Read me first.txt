@@ -1,0 +1,22 @@
+Hi, Thanks for buying SocioQuiz
+-------------------------------
+
+
+The script is in the file "script.zip"
+Unzip (extract) the file using the zip extractor thats included in every OS or you could use another compatible software (eg: winzip(for windows), iZip(for OSX)).
+
+Now follow the instructions in the detailed documentation in PDF format provided along with this package. Start with 'installation.pdf'.
+You could also read the documentation here: http://bornsocio.com/blog/docs/socio-quiz
+
+Important NOTE: While uploading, you must make sure the .htaccess file inside the script folder is also uploaded. It might be hidden if your computer settings are set that way. 
+
+
+Important: For support, create a ticket in our dedicated ticket support system here:
+http://bornsocio.com/support/
+
+*** Support requests on CodeCanyon comments section or contact section will not be answered *** Use only the SUPPORT TICKET system for support and after-sale enquiries ***
+
+
+We are happy to help you!
+Thank you!
+- BornSocio
